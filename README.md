@@ -16,7 +16,7 @@ wider aim of the project is to answer the following fundamental questions
 -    How successful should you expect to be by trading that rule?
 -    How would this rule fare when you have a limit on how much you can lose?
 
-         What exactly is the strategy?
+         So, what exactly is the strategy?
 # Moving Average(MA) Price with Volatility Bands on the Exxon Mobil Stock('XOM')
 
  - You enter when today's price exceeds the   MA price + s * atr 
