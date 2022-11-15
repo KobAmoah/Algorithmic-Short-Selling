@@ -5,7 +5,7 @@
           ...Simplify, simplify!
                                                                     - Henry David Thoreau
 
-  This work aims to strip a trading system to its core - trading rules. In particular, 
+  This work aims to strip a trading system to its core - trading rules. More so, 
 the focus is on simple trading rules since it much easier to explain the 
 profitability and behavior of such rules. 
 
