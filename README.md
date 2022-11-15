@@ -1,5 +1,8 @@
 # Algorithmic-Short-Selling
-          Our life is frittered in detail ... simplify, simplify.
+          Our life is frittered away by detail.... Simplicity, 
+          simplicity, simplicity! I say, let our affairs be 
+          as two or three, and not a hundred or a thousand
+          ...Simplify, simplify!
                                                                     - Henry David Thoreau
 
   This work aims to strip a trading system to its core - trading rules. In particular, 
