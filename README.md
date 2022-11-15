@@ -1,6 +1,6 @@
 # Algorithmic-Short-Selling
-  Our life is frittered in detail ... simplify, simplify.
-                                                          - Henry David Thoreau
+          Our life is frittered in detail ... simplify, simplify.
+                                                                    - Henry David Thoreau
 
   This work aims to strip a trading system to its core - trading rules. In particular, 
 the focus is on simple trading rules since it much easier to explain the 
