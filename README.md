@@ -14,12 +14,11 @@ wider aim of the project is to answer the following fundamental questions
 -    How would this rule fare when you have a limit on how much you can lose?
 
          What exactly is the strategy?
-# Moving Average Price with Volatility Bands on the Exxon Mobil Stock('XOM')
- How it does the strategy work?
+# Moving Average(MA) Price with Volatility Bands on the Exxon Mobil Stock('XOM')
 
- - Enter when today's price exceeds the   MA price + s * atr 
- - Exit when today's price goes below the MA price - s * stdev
- - Else maintain your prior position
+ - You enter when today's price exceeds the   MA price + s * atr 
+ - You exit when today's price goes below the MA price - s * stdev
+ - Else you maintain your prior position
 
  atr = average true range, and s = scaling factor
  
