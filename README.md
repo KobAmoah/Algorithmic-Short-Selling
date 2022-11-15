@@ -13,7 +13,7 @@ wider aim of the project is to answer the following fundamental questions
 -    How successful should you expect to be by trading that rule?
 -    How would this rule fare when you have a limit on how much you can lose?
 
-         Strategy
+         What exactly is the strategy?
 # Moving Average Price with Volatility Bands on the Exxon Mobil Stock('XOM')
  How it does the strategy work?
 
@@ -23,7 +23,7 @@ wider aim of the project is to answer the following fundamental questions
 
  atr = average true range, and s = scaling factor
  
- 
+          How is the code organized?
  # Code Organization & Functions 
 
 - Section 1.  Library Imports
