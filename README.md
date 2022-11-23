@@ -1,3 +1,5 @@
+![fce324cd220e0ec9435bebbfceb50cc2](https://user-images.githubusercontent.com/108365002/203485165-311a3631-807e-4906-b27b-2566779dbb43.jpeg)
+
 # Algorithmic-Short-Selling
           Our life is frittered away by detail.... Simplicity, 
           simplicity, simplicity! I say, let our affairs be 
