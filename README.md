@@ -27,6 +27,24 @@ wider aim of the project is to answer the following fundamental questions
 
  atr = average true range, and s = scaling factor
  
+ # Altering the Definition of the Moving Average Price
+ 
+ Rather than using the raw prices, prices are rebased/ expressed relative to the benchmark 
+ for the strategy to be viable. Rebasing is defined in the following way, 
+ (current stock price/current benchmark value) * first value of benchmark in its price series.
+ 
+ # What does this exactly mean? 
+ 
+ Suppose the data starts on January 4, 2008 and today's date 
+ is December 13, 2011, the relative price series is given by 
+ (stock price on 12/13/2011 / benchmark value on 12/13/2011) * benchmark value on 01/04/2011.
+ 
+ # Implemented form of strategy
+           RMA = Relative Moving Average
+ - You enter when today's price exceeds the   RMA price + s * atr 
+ - You exit when today's price goes below the RMA price - s * stdev
+ - Else you maintain your prior position
+ 
           How is the code organized?
  # Code Organization & Functions 
 
